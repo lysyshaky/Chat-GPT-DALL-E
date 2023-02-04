@@ -27,7 +27,7 @@ class _ChatScreenState extends State<ChatScreen> {
   void initState() {
     super.initState();
     chatGPT = ChatGPT.instance.builder(
-      "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",
+      "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",
     );
   }
 
